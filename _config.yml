@@ -1,1 +1,10 @@
 theme: jekyll-theme-architect
+
+#Prose.io editing info
+repo_name: tobago
+branch: gh-pages
+#GitHub organization name *or* username
+gh_org: gbinal
+prose_url: https://github.com/
+site_url: https://www.github.com
+media: assets/img
