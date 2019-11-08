@@ -1,3 +1,8 @@
+---
+layout: default
+title: Trivia
+published: true
+---
 
 
 ## Famous Residents
