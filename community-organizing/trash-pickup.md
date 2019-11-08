@@ -1,3 +1,8 @@
+---
+layout: default
+title: Trash Pickup
+published: true
+---
 
 
 ## Summary
