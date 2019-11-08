@@ -21,3 +21,8 @@ published: true
 * Neither a nonprofit or a for-profit organization 
 * A group that receives or spends money or keeps a budget 
 * An outlet for negativity
+
+
+Who we are: Gray and Josh, two interested, newer neighbors who definitely don't know everything and just want to be helpful. We often attend the monthly ANC 5d meetings, where Josh is usually drawing. Say Hi and tell us what you'd like to see here. You can also reach us here (email).
+
+You can suggest changes with the link to the right, and please feel free to email us if you have any questions. We look foward to getting to know you around the neighborhood.
