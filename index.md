@@ -6,17 +6,18 @@ published: true
 
 
 ## What this site is 
-* A forum where neighbors can plan and organize events 
-* Neighborhood resources 
-* Volunteer effort 
-* Inclusive and positive place
+* A website where neighbors can plan and organize events 
+* Links to neighborhood resources 
+* A part-time, neighborly volunteer effort 
+* An inclusive and positive place
 * A way for neighbors to connect with each other
-
+* Something free, useful and for you
+* Open to contributions by anyone who lives here
+* Continuously in progress and change
 
 ## What this site isn’t
-* Nextdoor 2.0 
-* Formal Organization  
-* Nonprofit nor a for-profit 
-* Budgeted (doesn’t receive or spend money) 
-* A message board 
-* Outlet for negativity
+* A message board or email listserv 
+* A formal or official organization  
+* Neither a nonprofit or a for-profit organization 
+* A group that receives or spends money or keeps a budget 
+* An outlet for negativity
