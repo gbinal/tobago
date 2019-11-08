@@ -8,10 +8,10 @@ published: true
 ## What this site is 
 * A website where neighbors can plan and organize events 
 * Links to neighborhood resources 
-* A part-time, neighborly volunteer effort 
+* A part-time, cooperative, neighborly volunteer effort 
 * An inclusive and positive place
 * A way for neighbors to connect with each other
-* Something free, useful and for you
+* Something free and useful
 * Open to contributions by anyone who lives here
 * Continuously in progress and change
 
