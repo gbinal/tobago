@@ -1,3 +1,9 @@
+---
+layout: default
+title: Community Spaces
+published: true
+---
+
 
 ## Art Spaces
 
