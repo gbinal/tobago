@@ -1,3 +1,9 @@
+---
+layout: default
+title: Businesses
+published: true
+---
+
 
 ## Restaurants
 
