@@ -2,7 +2,7 @@ theme: jekyll-theme-architect
 
 #Prose.io editing info
 repo_name: tobago
-branch: gh-pages
+branch: master
 #GitHub organization name *or* username
 gh_org: gbinal
 prose_url: https://github.com/
