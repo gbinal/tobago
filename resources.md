@@ -7,8 +7,9 @@ published: true
 
 ## Listserves
 
-* [Tots of Trinidad](https://groups.google.com/forum/?nomobile=true#!forum/tots-of-trinidad-dc)
-* [MDP - 5th District](https://groups.yahoo.com/group/MPD-5D) - Reports from the police about crime in Trinidad
+* [Tots of Trinidad](https://groups.google.com/forum/?nomobile=true#!forum/tots-of-trinidad-dc) - Group for parents of young children in Trinidad
+* [Ward 5](https://groups.google.com/forum/#!forum/wardfive) - Group for Ward 5 in DC
+* [MDP - 5th District](https://groups.google.com/forum/#!forum/official-mpd-5d) - Reports from the police about crime in Trinidad _(formerly [here](https://groups.yahoo.com/group/MPD-5D))_
 
 
 ## Websites 
