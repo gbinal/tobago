@@ -25,4 +25,4 @@ published: true
 
 Who we are: Gray (Oates St.) and Josh (Morse St.), two interested, newer neighbors who definitely don't know everything and just want to be helpful. We often attend the monthly [ANC 5d meetings](http://www.anc5d.org), where Josh is usually drawing. Say 'Hi' and tell us what you'd like to see here. You can also reach us [here](mailto:trinidad-dc@googlegroups.com).
 
-You can suggest changes with the "Edit this page" link to the side, and please feel free to [email us](mailto:trinidad-dc@googlegroups.com) if you have any questions. We look foward to getting to know you around the neighborhood.
+You can suggest changes by [emailing us](mailto:trinidad-dc@googlegroups.com) or through the "Edit this page" link to the side.  Please feel free to reach out if you have any questions. We look foward to getting to know you around the neighborhood.
