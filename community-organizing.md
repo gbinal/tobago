@@ -28,3 +28,8 @@ An opportunity to swap baby clothing with neighbors.
 
 TBA
 
+
+
+
+<p><em>Do you have a community organizing event that we should add to this page?  Let us know using the feedback, email or edit links in the sidebar!</em></p>
+
