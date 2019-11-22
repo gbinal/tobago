@@ -4,6 +4,7 @@ title: Welcome!
 published: true
 ---
 
+Hello! This site is currently **in development** and not quite ready for wide-spread use. If you're reading this, we need your help in making it better and getting it to where it needs to be. Take a look around and then click on [Feedback?](/feedback) If you have questions, or would prefer to just write us an email, you can reach us [here](mailto:trinidad-dc@googlegroups.com).  
 
 ## What this site is 
 * A website where neighbors can plan and organize events 
