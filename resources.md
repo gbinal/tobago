@@ -22,3 +22,4 @@ published: true
 ## Other Sources of News
 
 * [Prince of Petworth - Trinidad](https://www.popville.com/category/locations/trinidad-neighborhoods/) - News specific on Trinidad on the popular local blog
+* [UrbanTurf - Trinidad](https://dc.urbanturf.com/articles/tag/trinidad) - Real estate news on Trinidad
