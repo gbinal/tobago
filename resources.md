@@ -25,5 +25,4 @@ published: true
 * [UrbanTurf - Trinidad](https://dc.urbanturf.com/articles/tag/trinidad) - Real estate news on Trinidad
   
   
-  
-_Do you have a resource that we should add to this page?  Let us know using the feedback, email or edit links in the sidebar!_
+<p><em>Do you have a resource that we should add to this page?  Let us know using the feedback, email or edit links in the sidebar!</em></p>
