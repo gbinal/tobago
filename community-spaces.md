@@ -23,12 +23,10 @@ published: true
 
 ## Churches 
 
-* New Samaritan Baptist Church - [website](https://www.newsamaritan.org) - [map](https://goo.gl/maps/Y42w95Mxvswvyqvt7)
-* Holy Trinity Missionary Church - [map](https://goo.gl/maps/9YZ7eL6L133kqQhg9)
 * Community United Methodist Church - [website](https://sites.google.com/site/communityumc2/) - [map](https://goo.gl/maps/T5x6n6x8aeHDKNH99)
+* Holy Trinity Missionary Church - [map](https://goo.gl/maps/9YZ7eL6L133kqQhg9)
+* New Samaritan Baptist Church - [website](https://www.newsamaritan.org) - [map](https://goo.gl/maps/Y42w95Mxvswvyqvt7)
 * Newborn Pentecostal Church Of God - [map](https://goo.gl/maps/tLqdj8kpdT1ib6Ra7)
-
-
 
 ## Other 
 
