@@ -19,6 +19,6 @@ published: true
 * [Trinidad Neighborhood Association](https://trinidadneighborhood.org) - An organization with great information that hasn't been very active for the last couple years
 
 
-## News
+## Other Sources of News
 
 * [Prince of Petworth - Trinidad](https://www.popville.com/category/locations/trinidad-neighborhoods/) - News specific on Trinidad on the popular local blog
