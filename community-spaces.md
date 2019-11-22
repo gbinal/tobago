@@ -32,4 +32,6 @@ published: true
 
 * Fire Station - [map](https://goo.gl/maps/7D5hUPaDvP5XzqUn8)
 
+<p><em>Do you have a community space that is located in Trinidad that we should add to this page?  Let us know using the feedback, email or edit links in the sidebar!</em></p>
+
 
