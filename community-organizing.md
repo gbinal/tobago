@@ -4,7 +4,7 @@ title: Community Organizing
 published: true
 ---
 
-### Monthly Trash Pickups
+## Monthly Trash Pickups
 
 #### Summary
 
@@ -17,3 +17,14 @@ A monthly neighborhood trash pickup.
 * Bags, gloves, OJ, and coffee are provided 
 * Come and meet a neighbor while cleaning up the neighborhood!  
 * Contact: graybrooks@gmail.com
+
+## Clothing Swap
+
+#### Summary
+
+An opportunity to swap baby clothing with neighbors.  
+
+#### Details 
+
+TBA
+
