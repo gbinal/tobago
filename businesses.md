@@ -21,3 +21,6 @@ published: true
 ## Other
 
 * Goins Laundromat - [map](https://goo.gl/maps/kq4ook5gWcPpfGNMA)
+
+
+<p><em>Do you have a business located in Triniad that we should add to this page?  Let us know using the feedback, email or edit links in the sidebar!</em></p>
