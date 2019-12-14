@@ -26,6 +26,9 @@ published: true
 * Wheatley Education Campus - [website](https://www.wheatleydcps.org) - [map](https://goo.gl/maps/D774chdGd2WwxFmy7)
 * KIPP DC Webb Campus - [website](https://www.kippdc.org/schools/middle-schools/kipp-dc-northeast-academy/) - [map](https://goo.gl/maps/PkDmx63AwxgQ8QYT6)
 
+## Daycares 
+
+
 ## Churches 
 
 * Community United Methodist Church - [website](https://sites.google.com/site/communityumc2/) - [map](https://goo.gl/maps/T5x6n6x8aeHDKNH99)
