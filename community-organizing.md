@@ -4,11 +4,11 @@ title: Community Organizing
 published: true
 ---
 
-## Monthly Trash Pickups
+## Monthly Community Cleanups
 
 #### Summary
 
-A monthly neighborhood trash pickup.  
+A monthly neighborhood cleanup where we pick up trash and meet our neighbors!  
 
 #### Details 
 
