@@ -17,6 +17,7 @@ published: true
 * [ANC 5D](http://www.anc5d.org) - Our local Neighborhood Commission 
 * [Frozen Tropics](https://frozentropics.blogspot.com) - A great local news source for the larger area around Trinidad
 * [Trinidad Neighborhood Association](https://trinidadneighborhood.org) - An organization with great information that hasn't been very active for the last couple years
+* [Nextdoor](https://nextdoor.com/neighborhood/trinidad--washington--dc/) - An app and website for communicating with neighbors. A free account is required to access and post.
 
 
 ## Other Sources of News
