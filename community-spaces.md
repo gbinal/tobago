@@ -12,8 +12,8 @@ published: true
 
 ## Playgrounds
 
-*  - [website]() - [map]()
-*  - [website]() - [map]()
+* Joe Cole Playground and Spray Park - [website](https://dpr.dc.gov/page/spray-parks) - [map](https://goo.gl/maps/giGwWMYG5pFmEF8k7)
+* Trinidad Play DC Playground - [website](https://dgs.dc.gov/page/dgs-trinidad-play-dc-playground) - [map]()
 
 ## Recreation Centers 
 
